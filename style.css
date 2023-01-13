@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans',sans-serif;
+}
+/* header and navigation style */
+.title-img{
+    height: 800px;
+    background-image:url("resours/img/banner1.png");
+    text-align: right;
+    
+}
+.heading{
+    padding-top: 300px;
+    height: 200px;
+    margin-right: 200px;
+    font-size: 50;
+    margin-bottom: 10px;
+}
+ .per{
+    margin-top: 15px;
+    font-size: 15px;
+    
+}
+.btn{
+    height: 50px;
+    width: 130px;
+    border-radius: 5px;
+    background-color:#FF8802;
+    margin-top: 15px;
+    padding: 5px;
+}
+.mainbody{
+    height: 600px;
+    margin-top: 130px;
+   display: flex;
+}
+.my-failures{
+    margin-top: 300px;
+    width: 300px;
+    margin-left: 200px;
+}
+.pp{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.plan{
+    margin-top: 200px;
+    margin-bottom: 50px;
+    margin-left: 45%;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.web{
+    margin-right: 80px;
+}
+.watch{
+    margin-top: 90px;
+    height: 250px;
+    width: 800px;
+    background-image: url("resours/img/watch.png"); 
+    background: linear-gradient(to bottom, #33ccff23 0%, #ff99cc2a 100%);
+    background-image: url("resours/img/watch.png"); 
+    margin-left: 18%;
+    margin-bottom: 100px;
+}
+#hk{
+    padding-left: 5%;
+    padding-top: 5%;
+    color: #ffffff;
+}
+
+.call{ height: 50px;
+width: 130px;
+border-radius: 5px;
+background-color:#ffffff;
+margin-top: 15px;
+padding: 5px;
+color:#FF8802;
+margin-left: 30px;
+}
+.social{
+    height: 450px;
+    background-color: black;
+    color: #ffffff;
+    display: flex;
+    padding-top: 120px;
+    padding-left: 15%;
+    padding-right: 5%;
+}
+.txt h1,h6{
+    margin-bottom: 25px;
+}
+.txt p{
+    padding-right: 40%;
+    padding-bottom: 10%;
+}
+.txt img{
+    margin-left: 10px;
+}
+.sb{
+    height: 50px;
+width: 130px;
+background-color:#ffffff;
+margin-top: 15px;
+padding: 5px;
+color:#FF8802;
+border-radius: 5px;
+}
+.box h1{
+    margin-bottom: 20px;
+}
+   
